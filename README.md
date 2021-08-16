@@ -2,7 +2,7 @@
 
 -💼 Hoje trabalho na área de TI da Marinha do Brasil.
 
--💻 Tenho conhecimento de linguagem Python e Django.
+-💻 Tenho conhecimento em Python e Django.
 
 -📚 Estou estudando Desenvolvimento Mobile na UNOPAR.
 
