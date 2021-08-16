@@ -1,8 +1,8 @@
 ### Ola! Eu me chamo Fabrício Ribas Cabral 👋
 
--💼 Hoje trabalho na área de TI na Marinha do Brasil.
+-💼 Hoje trabalho na área de TI da Marinha do Brasil.
 
--💻 Tenho conhecimento de linguagem Python.
+-💻 Tenho conhecimento de linguagem Python e Django.
 
 -📚 Estou estudando Desenvolvimento Mobile na UNOPAR.
 
@@ -19,7 +19,6 @@
   
  <div>
   <a href="https://www.instagram.com/fafabriciorc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
