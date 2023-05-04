@@ -1,8 +1,8 @@
 ### Ola! Eu me chamo Fabrício Ribas Cabral 👋
 
--💼 Hoje trabalho na área de TI da Marinha do Brasil.
+-💼 Hoje trabalho na área de TI.
 
--💻 Tenho conhecimento em Python e Django.
+-💻 Tenho conhecimento em Python.
 
 -📚 Estou estudando Desenvolvimento Mobile na UNOPAR.
 
